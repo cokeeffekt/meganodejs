@@ -1,0 +1,22 @@
+{
+  "name": "meganodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cokeeffekt/meganodejs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cokeeffekt/meganodejs/issues"
+  },
+  "homepage": "https://github.com/cokeeffekt/meganodejs#readme",
+  "dependencies": {
+    "johnny-five": "^0.9.60"
+  }
+}
